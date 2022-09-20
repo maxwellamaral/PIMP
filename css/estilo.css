@@ -1,0 +1,124 @@
+﻿body {
+	font-family: Calibri, "Trebuchet MS", sans-serif;
+	margin: 20px 0px 50px 0px;
+	padding: 0px;
+}
+#principal {
+	position: relative;
+	width: 800px;
+	margin: 0 auto;
+}
+#logo {
+	position: relative;
+	height: 150px;
+	width: 260px;
+	float:left;
+}
+#titulo {
+	position: relative;
+	width: 540px;
+	height: 150px;
+	float:right;
+}
+
+h1 {
+	color: navy;
+}
+h2 {
+	color: #365F91;
+}
+h5 {
+	color: #365F91;
+	font-size: 11pt;
+}
+
+span#titulo2 {
+	font-size: 12pt;
+	font-weight: bold;
+	color: #365F91;
+	padding-left: 20px;
+}
+p#titulo3 {
+	font-size: 11pt;
+	font-weight: bold;
+	color: #365F91;
+	padding-left: 20px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+div#titulo2 {
+	border: 1px solid #cccccc;
+	position: relative;
+	background-color: #E8F3FF;
+	height: 23px;
+	display: table;
+	width: inherit;
+}
+p {
+	padding: 8px 20px 8px 20px;
+	text-align: justify;
+}
+div#finalidade {
+	border: 1px solid #CCCCCC;
+	width: inherit;
+	display: table;
+}
+div#obs {
+	border: 1px solid #CCCCCC;
+	width: inherit;
+	display: table;
+}
+div#artefatos {
+	border: 1px solid #CCCCCC;
+	width: inherit;
+	height:auto;
+	display: table;
+}
+div#papel {
+	border: 1px solid #CCCCCC;
+	width: inherit;
+	height:auto;
+	display: table;
+}
+div#ferramentas {
+	border: 1px solid #CCCCCC;
+	width: inherit;
+	height:auto;
+	display: table;
+}
+div#passos {
+	border: 1px solid #CCCCCC;
+	width: inherit;
+	height:auto;
+	display: table;
+}
+div#passoalternativo {
+	border: 1px solid #CCCCCC;
+	width: inherit;
+	height:auto;
+	display: table;
+}
+
+#detesquerdo {
+	border-width: 1px;
+	border-color: #CCCCCC;
+	float: left;
+	width: 400px;
+	border-right-style: solid;
+	border-top-style: solid;
+}
+#detdireito {
+	float: right;
+	width:395px;
+	border-top-style: solid;
+	border-width: 1px;
+	border-color: #CCCCCC;
+	
+}
+a {
+	color: #365F91;
+	text-decoration: none;
+}
+ol {
+	margin-left: 10px;
+}
